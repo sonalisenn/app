@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tasty</string>
+    <string name="logo_name">Tasty</string>
+    <string name="slogan_name">Get Tasty..Set Easily..</string>
+    <string name="powerd_by">Powered By Eazy.Beazy</string>
+
+    //categories
+    <string name="orders">Orders</string>
+    <string name="meals">Meals</string>
+    <string name="favourite">Favourite</string>
+    <string name="received">Received</string>
+    <string name="salads">Salads</string>
+
+
+    //titles and descriptions
+
+    <string name="featured">All featured meals</string>
+    <string name="featured_des">All the meals that are featured and have best tast !</string>
+    <string name="most_take">Most bought</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View all</string>
+    <string name="search_all">Search...</string>
+</resources>
